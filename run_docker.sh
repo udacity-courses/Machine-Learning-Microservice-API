@@ -4,12 +4,12 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build
+docker build -t anyulled/prediction:latest .
 
 # Step 2:
 # List docker images
-docker ps
+docker image ls
 
 # Step 3:
 # Run flask app
-docker run
+docker run -p 80:80 anyulled/prediction:latest
