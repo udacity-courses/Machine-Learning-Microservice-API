@@ -12,4 +12,4 @@ docker image ls
 
 # Step 3:
 # Run flask app
-docker run -p 80:80 anyulled/prediction:latest
+docker run --name prediction -p 8000:80 anyulled/prediction:latest
