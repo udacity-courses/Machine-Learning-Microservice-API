@@ -14,5 +14,5 @@ The submitted repository includes
 
 ### Code Quality & enhancement
 
-- [] Extend `app.py` to log a prediction value
-- [] The README file includes a summary of the project, how to run the python scripts and the web app, and an explanation of the files in the repository
+- [x] Extend `app.py` to log a prediction value
+- [ ] The README file includes a summary of the project, how to run the python scripts and the web app, and an explanation of the files in the repository
