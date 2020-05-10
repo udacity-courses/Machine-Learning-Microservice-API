@@ -5,11 +5,11 @@
 ### Files submitted
 
 The submitted repository includes
-- [] A *.circleci* folder with a `config.yml` file inside. 
-- [] A `README.md` file, 
-- [] A `Dockerfile` and `Makefile`. 
-- [] An `app.py` file, a prediction script
-- [] the necessary scripts to run and upload a microservice on Docker and Kubernetes.
+- [x] A *.circleci* folder with a `config.yml` file inside. 
+- [x] A `README.md` file, 
+- [x] A `Dockerfile` and `Makefile`. 
+- [x] An `app.py` file, a prediction script
+- [x] the necessary scripts to run and upload a microservice on Docker and Kubernetes.
      There should also be two output text files: `docker_out.txt` and `kubernetes_out.txt` that include the log output after a prediction is made, given some sample input data.
 
 ### Code Quality & enhancement
