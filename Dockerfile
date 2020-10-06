@@ -1,4 +1,4 @@
-FROM python:3.7.3-stretch
+FROM python:3.7.9-stretch
 LABEL description="This file creates a web application"
 ## Step 1:
 # Create a working directory
